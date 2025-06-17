@@ -57,12 +57,6 @@ An intelligent pet feeder system using IoT and embedded computer vision. It auto
 - Pet recognition via deep learning
 - MQTT integration for smart home
 
-## 🧑‍💻 Authors
-
-- [Your Name]
-- University of Western Australia, 2025
-- CITS5506 – Internet of Things
-
 ## 📄 License
 
 This project is for educational use only.
